@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   This is my first attempt at GitHub pages.
 
 # social links
-twitter_username: @SeanyDcode
-github_username:  @SeanyDcode
+twitter_username: SeanyDcode
+github_username:  SeanyDcode
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
